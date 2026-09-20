@@ -52,3 +52,7 @@ gradleBuild
 Podfile.lock
 Pods
 xcuserdata
+
+
+#environment
+.env
