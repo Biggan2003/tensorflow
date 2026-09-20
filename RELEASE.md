@@ -681,7 +681,7 @@ Aiden Grossman, Akash Patel, Akhil Goel, Alexander Pivovarov, Andrew Goodbody, A
 ### Bug Fixes and Other Changes
 
 * `tf.py_function` and `tf.numpy_function` can now be used as function decorators for clearer code:
-  
+
    ```
    @tf.py_function(Tout=tf.float32)
    def my_fun(x):
